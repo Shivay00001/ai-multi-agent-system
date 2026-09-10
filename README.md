@@ -48,3 +48,11 @@ Every agent is built using the same robust, standardized architecture:
 You can boot each agent individually using their respective \ackend\ and \rontend\ folders. 
 
 To run the full system concurrently, we recommend booting the **Connector System** on port 8012, and then bringing up the specific agents you want to use in your pipeline!
+
+
+## Prerequisites
+- Required environment and dependencies
+
+## Installation
+Follow standard installation steps for this language.
+
